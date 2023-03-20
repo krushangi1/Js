@@ -94,4 +94,4 @@ const btn = document.querySelector('button');
 			name:"ban",
 			city:"ahm"
 		}
-		arr.__proto__=obj;
+		
